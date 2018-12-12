@@ -5,7 +5,7 @@
 * Programming software is pure thought-stuff. Since our ideas are faulty, we have bugs.
 * Dividing a project or task up amongst multiple people creates the need for additional communication (training, internal communication, etc.). Additional communication increases the amount of time and effort required to complete a task or project.
 * The lack of certainty in our scheduling estimates creates a lack of courage to defend them stubbornly against management and customer pressure. This could lead to even more unrealistic timelines, which leads to disappointment.
-* *Brooks’ Law*: adding manpower to a late software project makes it later.
+* **Brooks’ Law**: adding manpower to a late software project makes it later.
 Adding people to a software project increases the total effort necessary in three ways: the work and disruption of dividing up the work itself, training the new people, and added communication requirements.
 
 ## The Idea of the Surgical Team
@@ -17,7 +17,7 @@ Adding people to a software project increases the total effort necessary in thre
 ## The Importance of Communication and Organization
 * Disasters arise from a lack of communication, when teams don’t stay on the same page and teams drift apart in their assumptions.
 * Teams should communicate with one another in as many ways as possible: informally, regular project meetings, and through documentation (emails, electronic documents, messaging, etc.).
-* Teams should keep a *Project Workbook*. The Project Workbook should consist of all the documents for a particular project. This workbook should be visible to all team members at all times. It should be updated continuously throughout the project in a timely manner. Changes should be visible and clearly marked so that everyone can see the changes that were made over time, they should be kept in a change summary.
+* Teams should keep a **Project Workbook**. The Project Workbook should consist of all the documents for a particular project. This workbook should be visible to all team members at all times. It should be updated continuously throughout the project in a timely manner. Changes should be visible and clearly marked so that everyone can see the changes that were made over time, they should be kept in a change summary.
 * The purpose of organization is to reduce the amount of communication and coordination necessary. Organization embodies division of labor and specialization of function in order to obviate communication.
 * The communication structure in an organization is a network, not a tree.
 * Every subproject has two leadership roles to be filled, that of the producer and that of the technical director, or architect. They are distinct roles and require different talents.
@@ -37,7 +37,7 @@ Adding people to a software project increases the total effort necessary in thre
 * The critical user documentation should be drafted before the program is built, for it embodies basic planning decisions.
 * Documentation of program internals, for anyone who may modify it, also demands a prose overview.
 * The flowchart is an overrated piece of documentation. Few programs need more than a one-page flowchart, if that.
-* For documentation to be used by programmers that may modify the program, tell why things are the way they are, rather than merely how they are. Purpose is the key to understanding.
+* For documentation to be used by programmers that may modify the program, tell why things are the way they are, rather than merely how they are. *Purpose* is the key to understanding.
 
 ## Keeping Projects On-Time
 * “How does a project get to be a year late?...One day at a time.”
