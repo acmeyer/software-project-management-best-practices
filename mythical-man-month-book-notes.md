@@ -1,5 +1,7 @@
 # The Mythical Man-Month Book Notes
 
+[Link to book](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/B005GM4EBS/ref=sr_1_2?s=books&ie=UTF8&qid=1544633663&sr=1-2&keywords=the+mythical+man+month)
+
 ## The problem with adding more people to a project
 * More programming projects have gone awry for lack of calendar time than for all other causes combined.
 * Programming software is pure thought-stuff. Since our ideas are faulty, we have bugs.
