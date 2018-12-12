@@ -1,4 +1,4 @@
-# Links to Articles on Software Project Management
+# Software Project Management Article Reading List
 
 Below is a list of some links to some of the best articles on software project management, separated by subject.
 
