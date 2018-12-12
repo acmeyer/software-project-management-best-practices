@@ -4,7 +4,7 @@ There are a lot of resources and tools out there for the coding side of software
 
 ### Table of Contents
 * [Book Reading List](/book-reading-list.md)
-* [Article Reading List](/articles-reading-list.md)
+* [Article Reading List](/article-reading-list.md)
 * [Notes on The Mythical Man-Month](/mythical-man-month-book-notes.md)
 
 ---
