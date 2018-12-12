@@ -9,6 +9,7 @@ Below is a list of some links to some of the best articles on software project m
 * [The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/)
 * [The Development Abstraction Layer](https://www.joelonsoftware.com/2006/04/11/the-development-abstraction-layer-2/)
 * [Human Task Switches Considered Harmful](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
 ## On Documentation
 * Functional Specs
@@ -20,3 +21,10 @@ Below is a list of some links to some of the best articles on software project m
   
 ## On Process
 * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
+## On Fostering Creativity
+* [How do people get new ideas?](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
+
+## On Using Space Well (or Not Well)
+* [The impact of the ‘open’ workspace on
+human collaboration](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0239)
