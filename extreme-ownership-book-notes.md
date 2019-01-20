@@ -24,7 +24,7 @@
 
 "I had to take complete ownership of what went wrong. That is what a leader does—even if it means getting fired."
 
-## You can’t *make *people do things
+## You can’t *make* people do things
 
 "I explained that the direct responsibility of a leader included getting people to listen, support, and execute plans...But to implement real change, to drive people to accomplish something truly complex or difficult or dangerous—you can’t make people do those things. You have to lead them."
 
