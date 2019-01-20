@@ -1,5 +1,7 @@
 # Peopleware Notes
 
+[Book Link](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook-dp-B00DY5A8X2/dp/B00DY5A8X2/)
+
 ## On Managing People
 
 * Don’t manage people as if they were machines or components of a system
