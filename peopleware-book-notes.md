@@ -82,7 +82,7 @@
 
 * Aim to give people at least a few hours a day for uninterrupted time. You should do all you can to protect this time for your team. Keep a measurement of the amount of time like this your team gets and aim to increase it as much as possible.
 
-    * Measurement called E-Factor = Uninterrupted Hours / Body-Present Hours
+    * Measurement called **E-Factor** = Uninterrupted Hours / Body-Present Hours
 
     * Emphasize the E-Factor of your team
 
@@ -96,7 +96,7 @@
 
 * The best workplace is not going to be perfectly replicable. What works for one may not work for another. The best workplaces have lots of different setups, it’s more organic.
 
-* **The ideal workplace: **A good workplace strikes the balance between too enclosed and too exposed. There shouldn’t be a wall directly in front of you so that you can occasionally look up and focus on something in the distance (to give your eyes a break). You should not be able to hear noises much different than the ones you make from where you work. People can concentrate on a task better if they work around others doing the same thing.
+* **The ideal workplace:** A good workplace strikes the balance between too enclosed and too exposed. There shouldn’t be a wall directly in front of you so that you can occasionally look up and focus on something in the distance (to give your eyes a break). You should not be able to hear noises much different than the ones you make from where you work. People can concentrate on a task better if they work around others doing the same thing.
 
 * Each team needs identifiable public and semi-private space. Each individual needs protected private space.
 
@@ -192,9 +192,9 @@
 
 * The addition of technology in meetings is bad. They rarely help enhance the meetings and more often than not, provide an escape for people.
 
-* **Working meetings: **meetings that have a group action that terminates the meeting. You should be able to answer the question: "What ends this meeting?"
+* **Working meetings:** meetings that have a group action that terminates the meeting. You should be able to answer the question: "What ends this meeting?"
 
-* **Ceremonial meetings: **meetings that are ended by the clock.
+* **Ceremonial meetings:** meetings that are ended by the clock.
 
 * Aim for working meetings, not ceremonial meetings. 
 
@@ -220,7 +220,7 @@
 
 * Discourage spamming people by copying them onto emails or writing emails to lots of recipients.
 
-* Allow people to **pull **information rather than have it **pushed** onto them.
+* Allow people to **pull** information rather than have it **pushed** onto them.
 
 * Each time you’re inclined to send a coordinating email to a colleague or to anyone who works for you, think about what steps you have to make to coach that person to self-coordinate.
 
