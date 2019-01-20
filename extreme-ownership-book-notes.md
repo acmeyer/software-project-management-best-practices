@@ -1,6 +1,6 @@
 # Extreme Ownership
 
-By Jocko William and Leif Babin
+[Book Link](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS/)
 
 ## Laws of Combat
 
